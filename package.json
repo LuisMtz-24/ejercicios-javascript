@@ -4,7 +4,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "inversion": "wds --open ./Ejercicios/01-Inversion/index.html"
+    "inversion": "wds --open ./Ejercicios/01-Inversion/index.html",
+    "vendedor": "wds --open ./Ejercicios/02-Vendedor/index.html",
+    "descuentos": "wds --open ./Ejercicios/03-Descuentos/index.html",   
+    "calificacion": "wds --open ./Ejercicios/04-Calificacion/index.html",
+    "edad": "wds --open ./Ejercicios/05-Edad/index.html", 
+    "palabras": "wds --open ./Ejercicios/06-Palabras a numeros/index.html", 
+    "horase": "wds --open ./Ejercicios/07-Horas extras/index.html",  
+    "utilidades": "wds --open ./Ejercicios/08-Utilidades/index.html",  
+    "dni": "wds --open ./Ejercicios/09-DNI/index.html",    
+    "etiquetas": "wds --open ./Ejercicios/10-Borrar etiquetas/index.html"           
   },
   "keywords": [],
   "author": "",
