@@ -1,4 +1,4 @@
-/* Fuente moderna y reseteo */
+
 * {
   margin: 0;
   padding: 0;
@@ -14,14 +14,12 @@ body {
   justify-content: center;
 }
 
-/* Contenedor */
 .container {
   width: 100%;
   max-width: 400px;
   padding: 20px;
 }
 
-/* Tarjeta */
 .card {
   background: #fff;
   border-radius: 20px;
@@ -30,14 +28,12 @@ body {
   text-align: center;
 }
 
-/* Título */
 .titulo {
   font-size: 1.8rem;
   color: #333;
   margin-bottom: 20px;
 }
 
-/* Labels */
 label {
   display: block;
   font-weight: bold;
@@ -46,7 +42,6 @@ label {
   text-align: left;
 }
 
-/* Inputs */
 input[type="number"] {
   width: 100%;
   padding: 12px;
@@ -63,7 +58,6 @@ input[type="number"]:focus {
   box-shadow: 0 0 5px rgba(58,123,213,0.5);
 }
 
-/* Botón */
 button {
   width: 100%;
   padding: 12px;
@@ -82,7 +76,6 @@ button:hover {
   transform: translateY(-2px);
 }
 
-/* Resultado */
 #resultadoBox {
   margin-top: 20px;
   padding: 15px;
