@@ -13,7 +13,7 @@
     "horase": "wds --open ./Ejercicios/07-Horas extras/index.html",  
     "utilidades": "wds --open ./Ejercicios/08-Utilidades/index.html",  
     "dni": "wds --open ./Ejercicios/09-DNI/index.html",    
-    "etiquetas": "wds --open ./Ejercicios/10-Borrar etiquetas/index.html"           
+    "etiquetas": "wds --open ./Ejercicios/10-Borraretiquetas/index.html"           
   },
   "keywords": [],
   "author": "",
