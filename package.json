@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "hub": "wds --open index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "inversion": "wds --open ./Ejercicios/01-Inversion/index.html",
     "vendedor": "wds --open ./Ejercicios/02-Vendedor/index.html",
